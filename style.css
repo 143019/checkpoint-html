@@ -1,0 +1,43 @@
+ul,
+li{
+    display: inline-block;
+}
+ul{
+    margin-right: 40px;
+}
+.iteam{
+    border-style: solid;
+    width: 100px;
+    text-align: center;
+    padding: 40px;
+    margin: 20px;
+    border-radius: 50%;
+}
+#paragraphe {
+    text-indent: 30px;
+    text-transform: capitalize;
+    line-height: 100px;
+    font-family: roboto;
+}
+.section1 p {
+    border-style: double;
+    width: 50%;
+    margin: auto;
+
+}
+#password:hover {
+    color: chartreuse;
+    text-decoration: line-through;
+  }
+  #s2 {
+    display: none;
+  }
+  li:hover #s2 {
+    display: block;
+  }
+  body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGzlq8i0Lgi4irf0APkv_-gFCb2fERun4wvg&usqp=CAU");
+    background-repeat: no-repeat;
+   background-size: cover; 
+    background-position: 20% 02%;
+  }
